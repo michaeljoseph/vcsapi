@@ -1,0 +1,10 @@
+# This file exists so you can easily regenerate your project.
+#
+#    cookiecutter -f --no-input --config-file=vcsapi/.cookiecutterrc gh:michaeljoseph/epitome
+
+default_context:
+    _output_dir:               '/Users/michaeljoseph/Source'
+    _template:                 'epitome'
+    author:                    'Michael Joseph <michaeljoseph+github@gmail.com>'
+    description:               'Git{Hub,Lab}, BitBucket API clients and models'
+    project_name:              'vcsapi'
